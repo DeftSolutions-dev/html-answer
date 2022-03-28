@@ -1,0 +1,33 @@
+body {
+    background-image:url("https://media.discordapp.net/attachments/860890030692368395/915310769980203039/fate-grand-order-anime-art-paren-avenger-edmond-dantes-chior.png");
+}
+h3 {
+    text-transform:uppercase;
+}
+.header { 
+    border-style:solid;
+    background-color:red;
+}
+.content {
+    background-color:red;
+    height:80%;
+    width:70%;
+    margin:15px;
+    padding:10px;
+}
+.footer {
+    background-color:red;
+    margin:50px;
+    padding:10px;
+}.job-title {
+    font-weight:bold;
+    color:maroon;
+}
+.large-list { font-size:25px; font-weight:bold;}
+ol ul { font-size:18px; font-weight:normal;}
+img {
+    height: 200px;
+    width:200px;
+    border-width: 5px;
+    border-style: solid
+}
